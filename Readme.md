@@ -6,6 +6,7 @@ The pytorch implementation for our CVPR2023 paper "DiffTalk: Crafting Diffusion 
 ## Requirements
 - python 3.7.0
 - pytorch 1.10.0
+- conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 - pytorch-lightning 1.2.5
 - torchvision 0.11.0
 - pytorch-lightning==1.2.5
