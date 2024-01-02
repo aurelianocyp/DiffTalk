@@ -10,6 +10,7 @@ The pytorch implementation for our CVPR2023 paper "DiffTalk: Crafting Diffusion 
 - pytorch-lightning 1.2.5
 - pip install pytorch-lightning==1.2.5
 - torchvision 0.11.0
+- pip install git+https://github.com/openai/CLIP.git
 
 For more details, please refer to the `requirements.txt`. We conduct the experiments with 8 NVIDIA 3090Ti GPUs.
 
