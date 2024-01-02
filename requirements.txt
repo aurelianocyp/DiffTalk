@@ -8,7 +8,8 @@ asynctest==0.13.0
 attrs==22.1.0
 audioread==3.0.0
 cachetools==5.2.0
-certifi @ file:///croot/certifi_1665076670883/work/certifi
+#certifi @ file:///croot/certifi_1665076670883/work/certifi
+certifi
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
